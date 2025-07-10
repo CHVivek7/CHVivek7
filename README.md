@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, I'm Chintakrindi Lakshmi Vivek
+
 I'm a passionate Java Full Stack Developer with expertise in building scalable applications and web solutions. With a strong foundation in Java and a comprehensive understanding of both front-end and back-end technologies, I create efficient, robust, and user-friendly applications.
 
 My approach combines technical excellence with user-centered design, ensuring that the applications I build not only function flawlessly but also provide an exceptional user experience.
